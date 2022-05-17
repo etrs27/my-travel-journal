@@ -1,0 +1,69 @@
+.entry {
+    display: flex;
+    flex-direction: flex-start;
+    margin: 45px 40px;
+    width: 470px;
+    height: 200px;
+    padding-bottom: 5px;
+    border-bottom: 2px solid gray;
+}
+
+p {
+    font-size: 10.7px;
+}
+
+.no-margin {
+    margin: 0;
+}
+
+.font-weight {
+    font-weight: 400;
+}
+
+.entry--group1 {
+    width: 125px;
+    height: 200px;
+}
+
+.entry--group2 {
+    margin-left: 20px;
+    padding-top: 3px;
+    width: 326px;
+    height: 200px;
+}
+
+.entry--image {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+
+.location-icon {
+    width: 11px;
+    height: 12px;
+}
+
+.entry--location {
+    margin-left: 2px;
+}
+
+.entry--google {
+    margin: 0 10px;
+    font-size: 11px;
+    color: #918E9B;
+}
+
+.entry--title {
+    margin-top: 5px;
+    font-weight: 700;
+}
+
+.entry--dates {
+    margin-top: 17px;
+    font-weight: 700;
+}
+
+.entry--summary {
+   margin-top: 10px;
+   line-height: 15px;
+}
